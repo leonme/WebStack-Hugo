@@ -4,12 +4,12 @@
 
 ## 主题开源地址
 
-- GitHub：[https://github.com/shenweiyan/WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo)
-- Gitee：[https://gitee.com/shenweiyan/WebStack-Hugo](https://gitee.com/shenweiyan/WebStack-Hugo)
+- GitHub：[https://github.com/leonme/WebStack-Hugo](https://github.com/leonme/WebStack-Hugo)
+- Gitee：[https://gitee.com/leonme/WebStack-Hugo](https://gitee.com/leonme/WebStack-Hugo)
 
 ## 主题演示地址
 
-- [https://www.bioit.top](https://www.bioit.top) （源码地址：<https://github.com/shenweiyan/NavBioIT>）
+- [https://www.zeronet.ltd](https://www.zeronet.ltd) （源码地址：<https://github.com/leonme/NavBioIT>）
 - [https://so.gd.cn](https://so.gd.cn)
 
 
@@ -62,8 +62,8 @@ WebStack 有非常多的魔改版本，这是其中一个。如果你对本主�
 
 关于 Windows/Linux 下详细的安装与使用说明，请参考文档：
 
-- <https://www.yuque.com/shenweiyan/cookbook/webstack-hugo> - 暂停更新
-- <https://github.com/shenweiyan/Knowledge-Garden/discussions/10> - 维护中
+- <https://www.yuque.com/leonme/cookbook/webstack-hugo> - 暂停更新
+- <https://github.com/leonme/Knowledge-Garden/discussions/10> - 维护中
 
 
 ## 感谢
